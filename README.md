@@ -2,7 +2,7 @@
 
 A mini helpdesk where **users** raise support tickets and **admins** triage, assign, and resolve them. It is built with **Node.js, Express, MongoDB (Mongoose), and React**. It includes JWT auth, role-based access control, an event-driven activity log and notification system, a stats dashboard, and automated API tests.
 
-> **Live demo:** `<add your deployment URL here>` (see [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md))
+> **Live demo:** [https://helpdesk-im0t.onrender.com](https://helpdesk-im0t.onrender.com) (see [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md))
 >
 > Demo accounts (created by the seed script):
 > | Role  | Email               | Password    |
